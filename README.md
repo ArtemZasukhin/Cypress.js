@@ -13,18 +13,12 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/baseUrl.png)
+![image](https://github.com/ArtemZasukhin/Cypress.js/blob/main/base_url.png)
 
 2. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/user_data.png)
+![image](https://github.com/ArtemZasukhin/Cypress.js/blob/main/user_data.png)
 
 3. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/cypress_autotests/main/locators.png)
+![image](https://github.com/ArtemZasukhin/Cypress.js/blob/main/Locator.png)
 
-## Локальный запуск тестов (из терминала)
-1. Скачать проект
-2. Перейти в терминале в директорию проекта
-2. Выполнить команду:
-```
-npx cypress run 
-```
+
